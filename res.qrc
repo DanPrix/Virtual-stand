@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>метод.png</file>
+    <file>стенд.png</file>
+    <file>on.png</file>
+    <file>off.png</file>
+    <file>back2.png</file>
+  </qresource>
+</RCC>
